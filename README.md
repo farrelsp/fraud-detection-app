@@ -48,8 +48,10 @@ We experimented with the following models:
 
 ## 📷 Screenshots
 
-<p float="left"> <img src="assets/home.png" width="48%" /> <img src="assets/home_2.png" width="48%" /> </p>
-<p float="left"> <img src="assets/batch.png" width="48%" /> <img src="assets/batch_2.png" width="48%" /> </p>
+<img src="assets/home.png" width="48%" /> 
+<img src="assets/home_2.png" width="48%" /> 
+<img src="assets/batch.png" width="48%" /> 
+<img src="assets/batch_2.png" width="48%" />
 
 ## 📦 Requirements
 
